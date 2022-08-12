@@ -12,8 +12,9 @@
 ### SysML Model
 
 #### Block definition diagram(s)
+
 ![Network Domain](./media/bdd.png)
 
 ### Internal block diagram(S)  
 
-![Antenna Connections](./media/bdd.png)
+![Antenna Connections](./media/ibd.png)
