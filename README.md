@@ -12,8 +12,8 @@
 ### SysML Model
 
 #### Block definition diagram(s)
-![Network Domain](./media/Block_Class_Domain_Network_Domain.png)
+![Network Domain](./media/bdd.png)
 
 ### Internal block diagram(S)  
 
-![Antenna Connections](./media/Block_Class_Domain_Antenna_connections.png)
+![Antenna Connections](./media/bdd.png)
