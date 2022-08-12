@@ -9,5 +9,10 @@
 
 ![Speed test](./media/t1.jpg)
 
+### System domain diagram
+
 ![b](./media/bdd.jpg)
+
+### System internal diagram
+
 ![i](./media/ibd.jpg)
