@@ -10,4 +10,4 @@
 ![Speed test](./media/t1.jpg)
 
 ![b](./media/bdd.jpg)
-![i](./medial/ibd.jpg)
+![i](./media/ibd.jpg)
