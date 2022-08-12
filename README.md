@@ -9,11 +9,4 @@
 
 ![Speed test](./media/t1.jpg)
 
-### SysML Model
 
-#### Block definition diagram(s)
-![Network Domain](./media/bdd.png)
-
-### Internal block diagram(S)  
-
-![Antenna Connections](./media/bdd.png)
